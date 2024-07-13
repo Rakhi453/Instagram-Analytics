@@ -1,22 +1,22 @@
-Welcome to the Instagram Data Analytics with SQL project! This repository contains a collection of SQL scripts inside ppt that demonstrate how to analyze and derive insights from Instagram data. Whether you're a data analyst, data scientist, or just a SQL enthusiast, this project will help you understand how to leverage SQL for social media analytics.
 
+# Instagram Marketing and Investor Analytics Dashboard
 
-Introduction
-Social media platforms like Instagram generate vast amounts of data every second. Analyzing this data can provide valuable insights into user behavior, engagement metrics, and content performance. This project showcases how SQL can be used to perform various types of analyses on Instagram data.
+# Project Overview:
+This project is dedicated to analyzing user engagement and platform performance on Instagram to provide valuable insights for the marketing team and investors. Through SQL queries and data analysis, we aim to address various aspects of marketing strategies, user behaviors, and investor metrics.
 
-A) Marketing: The marketing team wants to launch some campaigns, and they need your help with the following 
-1. Rewarding Most Loyal Users: People who have been using the platform for the longest time. Your Task: Find the 5 oldest users of the Instagram from the database provided
-2. Remind Inactive Users to Start Posting: By sending them promotional emails to post their 1st photo. Your Task: Find the users who have never posted a single photo on Instagram
-3. Declaring Contest Winner: The team started a contest and the user who gets the most likes on a single photo will win the contest now they wish to declare the winner. Your Task: Identify the winner of the contest and provide their details to the team
-4. Hashtag Researching: A partner brand wants to know, which hashtags to use in the post to reach the most people on the platform. Your Task: Identify and suggest the top 5 most commonly used hashtags on the platform
-5. Launch AD Campaign: The team wants to know, which day would be the best day to launch ADs. Your Task: What day of the week do most users register on? Provide insights on when to schedule an ad campaign B)
-  
-  
-B) Investor Metrics: Our investors want to know if Instagram is performing well and is not becoming redundant like Facebook, they want to assess the app on the following grounds 
-1. User Engagement: Are users still as active and post on Instagram or they are making fewer posts Your Task: Provide how many times does average user posts on Instagram. Also, provide the total number of photos on Instagram/total number of users
-2. Bots & Fake Accounts: The investors want to know if the platform is crowded with fake and dummy accounts Your Task: Provide data on users (bots) who have liked every single photo on the site (since any normal user would not be able to do this)
+A) Marketing Analysis:
+Rewarding Most Loyal Users: Task: Identify the five oldest users on Instagram to reward them for their loyalty.
 
+Remind Inactive Users to Start Posting: Task: Find users who have never posted a single photo on Instagram to target them with promotional emails.
 
+Declaring Contest Winner: Task: Determine the winner of a contest based on the user with the most likes on a single photo and provide their details.
 
+Hashtag Researching: Task: Identify and suggest the top five most commonly used hashtags on the platform for a partner brand.
 
-Feel free to explore, learn, and contribute to this project. If you have any questions or need further assistance, don't hesitate to reach out. Happy analyzing!
+Launch AD Campaign: Task: Determine the best day of the week to launch ad campaigns based on user registration trends.
+
+B) Investor Metrics:
+User Engagement: Task: Calculate the average number of posts per user and provide insights into overall user engagement.
+
+Bots & Fake Accounts: Task: Identify users who may be bots or fake accounts by analyzing their activity.
+
